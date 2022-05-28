@@ -2,7 +2,7 @@
   "name": "@pythoncoderas/eslint-config-oclif-typescript",
   "private": false,
   "description": "eslint config for Typscript'd oclif",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "oclif",
   "bugs": "https://github.com/PythonCoderAS/eslint-config-oclif-typescript/issues",
   "dependencies": {
