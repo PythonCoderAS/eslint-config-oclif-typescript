@@ -6,14 +6,14 @@
   "bugs": "https://github.com/oclif/eslint-config-oclif-typescript/issues",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.26.0",
-    "@typescript-eslint/parser": "^4.31.2",
+    "@typescript-eslint/parser": "^5.26.0",
     "eslint-config-xo-space": "^0.33.0",
     "eslint-plugin-mocha": "^10.0.5",
     "eslint-plugin-node": "^11.1.0"
   },
   "devDependencies": {
     "eslint": "^8.16.0",
-    "typescript": "^4"
+    "typescript": "^4.7.2"
   },
   "engines": {
     "node": ">=12.0.0"
