@@ -1,4 +1,4 @@
 eslint-config-oclif-typescript
 ====================
 
-eslint config for Typscript'd oclif
+Eslint config for Typscript'd oclif. Published under `@pythoncoderas/eslint-config-oclif-typescript`.
