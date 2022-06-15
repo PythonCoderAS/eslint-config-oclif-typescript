@@ -4,13 +4,9 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    open-pull-requests-limit: 100
-    pull-request-branch-name:
-      separator: "-"
+      time: "00:00"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "daily"
-    open-pull-requests-limit: 100
-    pull-request-branch-name:
-      separator: "-"
+      time: "00:00"
